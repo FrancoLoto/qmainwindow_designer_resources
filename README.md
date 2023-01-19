@@ -1,0 +1,1 @@
+# QMainWindow Designer resources
